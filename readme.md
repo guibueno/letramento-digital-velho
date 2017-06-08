@@ -47,12 +47,14 @@ Diante desse cenário, a oficina propõe um espaço de interação com equipamen
 * Instagram.
 * Tumblr / Pinterest / Flickr.
 * Criação de uma conta conjunta para apresentar o desenvolvimento da oficina.
-
-
 * **3.2 Uso do celular smartphone:**
 * Instalar aplicativos: Whatsapp.
 * Tirar fotos.
 * Enviar mensagens e fotos.
+
+## Materiais
+
+Para cada encontro, será produzida uma apresentação em slides com os conteúdos programados. Essa apresentação terá o propósito de conduzir os diálogos, de propor debates e de exibir imagens, vídeos e capturas de tela que irão auxiliar a aprendizagem dos alunos. Todo esse material estará disponível online e em versão mais atualizada no endereço [https://github.com/guibueno/letramento-digital](https://github.com/guibueno/letramento-digital), podendo ser consultado pelos alunos durante e após os encontros semanais.
 
 ### Temas abordados
 Paralelamente a estas dinâmicas, algumas provocações serão colocadas em discussão:
