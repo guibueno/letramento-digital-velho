@@ -1,7 +1,7 @@
-# Proposta de Oficina: Letramento Digital
+# Oficina: Letramento Digital
 
 SESC Vila Mariana 
-São Paulo, Junho de 2017
+São Paulo, 2017
 
 ---
 
@@ -13,11 +13,20 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 
 ---
 
+## Aulas
+
+1. [(09/08/2017) Encontro de Apresentação](modulo1.html)
+
+
+---
+
 ## Nosso encontro digital: introdução aos computadores e à internet
 
 A sociedade hiperconectada exige cada vez mais familiaridade com os ambientes digitais. Tarefas cotidianas gradualmente passam a ser intermediadas por sistemas informatizados, quer seja nos caixas eletrônicos dos bancos ou na recarga dos bilhetes de transporte público. Na busca por eficiência administrativa, porém, uma grande parcela da população é marginalizada, em prejuízo à socialização e ao exercício da cidadania. 
 
 Diante desse cenário, a oficina propõe um espaço de interação com equipamentos e ambientes digitais. Trata-se de um primeiro contato envolvendo capacitação técnica básica no uso do teclado e mouse, assim como das telas de celular sensíveis ao toque, para em seguida introduzir algumas ferramentas e redes sociais como buscadores, email, YouTube e Wikipedia. Algumas questões serão colocadas pontualmente em debate, envolvendo segurança, confiabilidade da informação e privacidade. Espera-se propiciar aos participantes um ambiente de aprendizado colaborativo e, passada a oficina, que eles se sintam seguros para posteriormente continuar a explorar e experimentar essas e também outras tecnologias e plataformas em rede.
+
+---
 
 ### Dinâmicas
 *Cada módulo inicia com uma conversa com os participantes, discutindo o que já conhecem sobre computadores e sobre a internet. A partir de então, serão levantados interesses comuns para que os encontros seguintes possam trazer sites e referências direcionados. Um ambiente colaborativo de aprendizagem e experimentação será criado.*
