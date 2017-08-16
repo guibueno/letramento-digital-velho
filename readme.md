@@ -15,8 +15,8 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 
 ## Aulas
 
-1. [(09/08/2017) Encontro de Apresentação](modulo1-aula1.html)
-2. [(16/08/2017) Teclado, Sistemas Operacionais e Navegadores](modulo1-aula2.html)
+1. [(09/08/2017) Encontro de Apresentação](guibueno.github.com/letramento-digital/modulo1-aula1.html)
+2. [(16/08/2017) Teclado, Sistemas Operacionais e Navegadores](guibueno.github.com/letramento-digital/modulo1-aula2.html)
 
 
 ---
