@@ -289,7 +289,7 @@ body {
 BY GUI
 */
 
-.discussion h1, .discussion h2, .discussion h3 {
+.discussion h1, .discussion h2, .discussion h3 , .discussion h4 {
   border-top: 3px solid #000;
   border-bottom: 3px solid #000;
   padding-top: 50px;

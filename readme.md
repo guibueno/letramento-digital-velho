@@ -15,13 +15,14 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 
 ## Aulas
 
-1. [(09/08/2017) Encontro de Apresentação](https://guibueno.github.com/letramento-digital/modulo1-aula1.html)
-2. [(16/08/2017) Teclado, Sistemas Operacionais e Navegadores](https://guibueno.github.com/letramento-digital/modulo1-aula2.html)
+1. [(09/08/2017) Apresentação: ligando o computador, mouse, teclado e monitor.](https://guibueno.github.com/letramento-digital/modulo1-aula1.html)
+2. [(16/08/2017) Usando o teclado: calculadora e editores de texto.](https://guibueno.github.com/letramento-digital/modulo1-aula2.html)
+3. [(16/08/2017) Prática de digitação, sistemas Operacionais e navegadores](https://guibueno.github.com/letramento-digital/modulo1-aula3.html)
 
 
 ---
 
-## Nosso encontro digital: introdução aos computadores e à internet
+## Letramento digital: introdução aos computadores e à internet
 
 A sociedade hiperconectada exige cada vez mais familiaridade com os ambientes digitais. Tarefas cotidianas gradualmente passam a ser intermediadas por sistemas informatizados, quer seja nos caixas eletrônicos dos bancos ou na recarga dos bilhetes de transporte público. Na busca por eficiência administrativa, porém, uma grande parcela da população é marginalizada, em prejuízo à socialização e ao exercício da cidadania. 
 
@@ -32,7 +33,7 @@ Diante desse cenário, a oficina propõe um espaço de interação com equipamen
 ### Dinâmicas
 *Cada módulo inicia com uma conversa com os participantes, discutindo o que já conhecem sobre computadores e sobre a internet. A partir de então, serão levantados interesses comuns para que os encontros seguintes possam trazer sites e referências direcionados. Um ambiente colaborativo de aprendizagem e experimentação será criado.*
 
-1. **Módulo 1: Primeiros contatos com Computadores e Internet.**
+#### **Módulo 1: Primeiros contatos com Computadores e Internet.**
 - Exercícios básicos de digitação e mouse por meio de jogos e desenhos.
 - Experimentos com vídeo e som.
 - Sistema operacional.
@@ -41,7 +42,7 @@ Diante desse cenário, a oficina propõe um espaço de interação com equipamen
 - Cadastro de email e envio de mensagem.
 - Orientação para preencher formulários e se cadastrar em serviços.
 
-2. **Módulo 2: É hora de navegar**
+#### **Módulo 2: É hora de navegar**
 * Buscadores.
 * Busca por imagens.
 * Wikis e Wikipedia.
@@ -49,15 +50,16 @@ Diante desse cenário, a oficina propõe um espaço de interação com equipamen
 * Assistir e compartilhar vídeos / músicas.
 * Jornais antigos: hemeroteca digital da Biblioteca Nacional - RJ.
 
-3. **Módulo 3:**
+#### **Módulo 3:**
  
-* **3.1 Redes Sociais**
+##### 3.1 Redes Sociais**
 * Facebook.
 * Twitter.
 * Instagram.
 * Tumblr / Pinterest / Flickr.
 * Criação de uma conta conjunta para apresentar o desenvolvimento da oficina.
-* **3.2 Uso do celular smartphone:**
+
+##### **3.2 Uso do celular smartphone:**
 * Instalar aplicativos: Whatsapp.
 * Tirar fotos.
 * Enviar mensagens e fotos.
