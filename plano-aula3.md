@@ -1,5 +1,6 @@
 # PRECISO
 - Screenshot da Área de Trabalho do Ubuntu
+- Gifs de uso do LibreOffice Writer
 
 ---
 
@@ -53,7 +54,7 @@ Parece que foi ontem que começamos!
 
 ### Reflexões
 
-#### Por que a maioria das pessoas usa o WhatsApp?
+#### .discussion Por que a maioria das pessoas usa o WhatsApp?
 - É mais barato um celular que um computador.
 - Não é dificil usar o WhatsApp. É mais simples!
 - É necessário usá-lo para fazer muitas coisas.
@@ -107,18 +108,23 @@ Parece que foi ontem que começamos!
 - Em vários tamanhos
 - E cores
 
-### Caso 1 - Ubuntu
+### Abrindo o LibreOffice Writer
 ![caso2-screen1.png]
 ![caso2-screen2.png]
 
-### Caso 2 - Lubuntu
-![caso1-screen1.png]
-![caso1-screen2.png]
+/*
+// ### Caso 2 - Lubuntu
+// ![caso1-screen1.png]
+// ![caso1-screen2.png]
 
-### Algum outro caso?
+// ### Algum outro caso?
+*/
 
 ## Ajustando o tamanho
 data-background ![libre-office-writer-blank.png]
+
+## Onde você está escrevendo é onde pisca
+![pisca.gif]
 
 #### Escreva qualquer coisa, como "dkjsahdaisudjaosdojasd".
 data-background ![libre-office-writer-random.gif]
@@ -142,7 +148,7 @@ data-background ![libre-office-writer-random-aumentar.gif]
 
 #### Ajuste para um tamanho agradável.
 
-### Tudo pronto, vamos nessa!
+### Tudo pronto, vamos!
 
 ---
 
@@ -151,8 +157,6 @@ data-background ![libre-office-writer-random-aumentar.gif]
 ## Busque a posição "certa"
 ![keyboard1.png]
 
-## Onde você está escrevendo é onde pisca
-![pisca.gif]
 
 ## #1 letras + espaços
  no dia de hoje faz bastante ___ aqui nesta grande cidade
@@ -431,4 +435,4 @@ gob.bueno@gmail.com
 ---
 
 ## .discussion Pensem no quão mágica é uma impressão!
-- Livros, revistas, jornais
+- Livros, revistas, jornais.
