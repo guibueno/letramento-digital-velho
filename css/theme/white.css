@@ -299,6 +299,10 @@ BY GUI
   background: white;
   color: black;
   display: inline;
+  padding-left: 15px !important;
+  padding-top: 5px !important;
+  padding-right: 15px !important;
+  padding-bottom: 5px !important;
 }
 .box {
   display: block;
