@@ -15,9 +15,15 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 
 ## Aulas
 
+### Módulo 1
+
 1. [(09/08/2017) Apresentação: ligando o computador, mouse, teclado e monitor.](https://guibueno.github.com/letramento-digital/modulo1-aula1.html)
 2. [(16/08/2017) Usando o teclado: calculadora e editores de texto.](https://guibueno.github.com/letramento-digital/modulo1-aula2.html)
-3. [(23/08/2017) Prática de digitação, sistemas Operacionais e navegadores](https://guibueno.github.com/letramento-digital/modulo1-aula3.html)
+3. [(23/08/2017) Medo versus cuidado, práticas de digitação navegadores](https://guibueno.github.com/letramento-digital/modulo1-aula3.html)
+4. [(30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas](https://guibueno.github.com/letramento-digital/modulo1-aula4.html)
+
+## Formulários
+1. [(30/08/2017) Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)
 
 
 ---
