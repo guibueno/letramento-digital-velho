@@ -10,17 +10,22 @@ São Paulo, 2017
 Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas Digitais pela New York University (NYU). Durante o mestrado, convivi com game designers, aprendi muito sobre como aprendemos e foquei minha pesquisa em aplicativos móveis de ensino de idiomas. Em minha tese, desenhei, testei e [apresentei](https://www.youtube.com/watch?v=DGmgGfFZpQo) o applicativo [LanguageBug](http://languagebug.org/), ainda em desenvolvimento. 
 
 **Mais informações**: [http://guibueno.github.io/](http://guibueno.github.io/).
+**Contato**: gob.bueno ARROBA gmail.com
 
 ---
 
 ## Aulas
 
-### Módulo 1
+### Módulo 1 [[Saberes Coletivos]](saberes-coletivos.html)
 
 1. [(09/08/2017) Apresentação: ligando o computador, mouse, teclado e monitor.](https://guibueno.github.com/letramento-digital/modulo1-aula1.html)
 2. [(16/08/2017) Usando o teclado: calculadora e editores de texto.](https://guibueno.github.com/letramento-digital/modulo1-aula2.html)
 3. [(23/08/2017) Medo versus cuidado, práticas de digitação navegadores](https://guibueno.github.com/letramento-digital/modulo1-aula3.html)
 4. [(30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas](https://guibueno.github.com/letramento-digital/modulo1-aula4.html)
+
+### Módulo 2
+1. (06/09/2017) Navegadores, ponteiros do mouse, buscadores, primeiros sites, e-mail.
+
 
 ## Formulários
 1. [(30/08/2017) Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)

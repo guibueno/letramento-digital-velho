@@ -18,3 +18,14 @@ Guiar Melhor o Uso da Internet
 ensinar a usar o site
 
 ### Botão de voltar
+
+
+O que não conseguimos fazer sem computadores:
+- Pagar contas
+- Cursos gratuitos
+- Agendamentos
+- Comprar passagens
+- Receita federal
+- Pesquisa
+- Ouvir música
+- Curso no computador sobre computadores
