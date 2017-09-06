@@ -25,7 +25,7 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 5. (BÔNUS) [Saberes Coletivos](saberes-coletivos.html)
 
 ### Módulo 2
-1. [(06/09/2017) Navegadores, ponteiros do mouse, buscadores, primeiros sites, e-mail.](https://guibueno.github.com/letramento-digital/modulo2-aula1.html)
+1. [(06/09/2017) Apresentação, sobre a internet, primeiros sites, e-mail.](https://guibueno.github.com/letramento-digital/modulo2-aula1.html)
 
 
 ## Formulários
